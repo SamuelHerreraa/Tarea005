@@ -1,0 +1,1 @@
+<a href="/create" class="btn btn-primary">Agregar producto</a>
